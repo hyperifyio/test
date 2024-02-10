@@ -1,0 +1,24 @@
+[submodule "src/io/hyperify/core"]
+	path = src/io/hyperify/core
+	url = git@github.com:hyperifyio/io.hyperify.core.git
+	branch = main
+[submodule "src/io/hyperify/node"]
+	path = src/io/hyperify/node
+	url = git@github.com:hyperifyio/io.hyperify.node.git
+	branch = main
+[submodule "src/io/hyperify/testing"]
+	path = src/io/hyperify/testing
+	url = git@github.com:hyperifyio/io.hyperify.testing.git
+	branch = main
+[submodule "src/io/hyperify/pg"]
+	path = src/io/hyperify/pg
+	url = git@github.com:hyperifyio/io.hyperify.pg.git
+	branch = main
+[submodule "src/io/hyperify/mysql"]
+	path = src/io/hyperify/mysql
+	url = git@github.com:hyperifyio/io.hyperify.mysql.git
+	branch = main
+[submodule "src/io/hyperify/frontend"]
+	path = src/io/hyperify/frontend
+	url = git@github.com:hyperifyio/io.hyperify.frontend.git
+	branch = main
